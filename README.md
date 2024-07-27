@@ -7,7 +7,7 @@ link : https://www.swisstronik.com/testnet2/dashboard
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/deploy-private-nft.git
+git clone https://github.com/ginan15/deploy-private-nft.git
 ```
 ```bash
 cd deploy-private-nft
